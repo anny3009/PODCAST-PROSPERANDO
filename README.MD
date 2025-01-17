@@ -12,11 +12,10 @@ Episódio: PLANILHA: FERRAMENTA PARA PROSPERAR
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
+- ChatGPT
+- Canvas
+- ElevenLabs
+- Capcut
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
